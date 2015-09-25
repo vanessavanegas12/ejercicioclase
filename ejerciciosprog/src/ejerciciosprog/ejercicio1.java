@@ -5,6 +5,7 @@
  */
 package ejerciciosprog;
 
+<<<<<<< HEAD
 import java.util.*;
 
 public class ejercicio1 {
@@ -28,3 +29,19 @@ public class ejercicio1 {
         
      }
      }
+=======
+/**
+ *
+ * @author coreducacion
+ */
+ import java.util.*;
+ public class ejercicio1 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String cadena;
+        System.out.println("Digite un nombre: ");
+        cadena = sc.nextLine();
+        System.out.println("Hola " + cadena);
+    }
+    }
+>>>>>>> origin/master
