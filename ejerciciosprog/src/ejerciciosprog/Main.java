@@ -5,10 +5,7 @@
  */
 package ejerciciosprog;
 
-/**
- *
- * @author coreducacion
- */
-public class ejercicio2 {
-    
+ 
+ 
+    }
 }
